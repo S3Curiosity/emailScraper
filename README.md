@@ -51,3 +51,4 @@ This script is open-source software licensed under the [MIT License] Feel free t
 
 Happy Email Scraping! 📧✨
 ```
+https://twitter.com/S3Curiosity
