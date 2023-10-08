@@ -39,7 +39,9 @@ python email_scraper.py https://example.com
 
 ## Disclaimer
 
-Please use this script responsibly and ensure that you have the right to scrape the website in question. Disabling SSL certificate verification (`verify=False`) can expose you to security risks, so exercise caution and consider the implications before using it.
+This is for educational purposes only. 
+Always ensure you have proper authorization before conducting any security testing on systems or networks you do not own or have explicit permission to test.
+Please use this script responsibly and ensure that you have the right to test the target in question.
 
 The authors and contributors of this script are not responsible for any misuse or legal consequences that may arise from its use.
 
